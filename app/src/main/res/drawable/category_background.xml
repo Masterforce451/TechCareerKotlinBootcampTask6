@@ -1,0 +1,99 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/anime_foreground">
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="270"
+                android:endColor="#8B0000"
+                android:startColor="#00000000"
+                android:type="linear" />
+        </shape>
+    </item>
+
+    <item android:id="@+id/action_foreground">
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="270"
+                android:endColor="#00008B"
+                android:startColor="#00000000"
+                android:type="linear" />
+            />
+        </shape>
+    </item>
+
+    <item android:id="@+id/freetoplay_foreground">
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="270"
+                android:endColor="#B8860B"
+                android:startColor="#00000000"
+                android:type="linear" />
+            />
+        </shape>
+    </item>
+
+    <item android:id="@+id/strategy_cities_settlements_foreground">
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="270"
+                android:endColor="#8B008B"
+                android:startColor="#00000000"
+                android:type="linear" />
+            />
+        </shape>
+    </item>
+
+    <item android:id="@+id/survival_foreground">
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="270"
+                android:endColor="#006400"
+                android:startColor="#00000000"
+                android:type="linear" />
+            />
+        </shape>
+    </item>
+
+    <item android:id="@+id/exploration_open_world_foreground">
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="270"
+                android:endColor="#008B8B"
+                android:startColor="#00000000"
+                android:type="linear" />
+            />
+        </shape>
+    </item>
+
+    <item android:id="@+id/adventure_foreground">
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="270"
+                android:endColor="#E98C00"
+                android:startColor="#00000000"
+                android:type="linear" />
+            />
+        </shape>
+    </item>
+
+    <item android:id="@+id/multiplayer_coop_foreground">
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="270"
+                android:endColor="#8B0000"
+                android:startColor="#00000000"
+                android:type="linear" />
+            />
+        </shape>
+    </item>
+
+    <item android:id="@+id/visual_novel_foreground">
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="270"
+                android:endColor="#00008B"
+                android:startColor="#00000000"
+                android:type="linear" />
+            />
+        </shape>
+    </item>
+</layer-list>

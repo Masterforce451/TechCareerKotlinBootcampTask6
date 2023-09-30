@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/market_icon"
+        tools:ignore="MenuTitle" />
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/news_icon"
+        tools:ignore="MenuTitle" />
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/steam_guard_icon"
+        tools:ignore="MenuTitle" />
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/notifications_icon"
+        tools:ignore="MenuTitle" />
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/menu_icon"
+        tools:ignore="MenuTitle" />
+</menu>
